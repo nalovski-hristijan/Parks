@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Parks</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="map">Map</string>
+    <string name="parks">Parks</string>
+    <string name="description">Description</string>
+    <string name="textview" />
+    <string name="operating_hours" />
+    <string name="info_not_available">Info not available</string>
+    <string name="directions_not_available">Directions not available</string>
+    <string name="hint_search">Enter State Code: WA, LA, NY</string>
+</resources>
